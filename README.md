@@ -1,2 +1,1 @@
-# Latex---Presentation
-Latex - Presentation
+Latex Presentation
